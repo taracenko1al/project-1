@@ -378,3 +378,4 @@ function lib() {
     App.Core.Registry(lib, "units_forms"); //Регистрация модуля в ядре
 })(App);
  for science
+imutable
